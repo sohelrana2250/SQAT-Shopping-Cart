@@ -1,0 +1,19 @@
+{
+  "name": "test_shoppingcart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha './spces/**/*.spec.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "sinon": "^17.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.10"
+  }
+}
